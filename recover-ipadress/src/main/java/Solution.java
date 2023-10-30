@@ -1,10 +1,15 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @ClassName Solution
+ * @Description To find all possible IP addresses from a given string.
+ * @Author Zhenxu
+ * @Date 2023/10/27
+ **/
 public class Solution {
-    StringBuffer stringBuffer = new StringBuffer();
-    List<String> ans = new ArrayList<>();
-    int count = 0;
+    StringBuffer stringBuffer = new StringBuffer(); // 保存当前可能的IP地址
+    List<String> ans = new ArrayList<>();  // 保存所有可能的IP地址
+    int count = 0; // 记录当前已经有多少个子IP地址
 
     /**
      * @param s 输入字符串
@@ -22,6 +27,7 @@ public class Solution {
      * @param index   当前遍历到的字符的下标
      */
     void backtracking(char[] charSet, int length, int index){
+        // 递归终止条件
         if(index == length && count == 4){
             stringBuffer.deleteCharAt(stringBuffer.length()-1);
             count--;
@@ -33,6 +39,7 @@ public class Solution {
             return;
         }
         for(int i = index; i < length; i++){
+            // 如果当前字符是有效的IP地址，则将其加入到stringBuffer中
             if(isValid(charSet, i, index)){
                 for(int j = index; j <= i; j++){
                     stringBuffer.append(charSet[j]);
@@ -41,12 +48,13 @@ public class Solution {
                 count++;
             }else continue;
             backtracking(charSet, length, i+1);
+            // 回溯
             for(int j = i; j >= index; j--){
                 if(stringBuffer.charAt(stringBuffer.length()-1) == '.'){
                     stringBuffer.deleteCharAt(stringBuffer.length()-1);
                     count--;
                 }
-                stringBuffer.deleteCharAt(stringBuffer.length()-1);
+                stringBuffer.deleteCharAt(stringBuffer.length()-1); // 将当前字符从stringBuffer中删除
             }
         }
     }
