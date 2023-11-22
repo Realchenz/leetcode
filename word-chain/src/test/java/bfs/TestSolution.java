@@ -5,8 +5,6 @@ import org.junit.Test;
 import java.util.List;
 
 public class TestSolution {
-
-
     @Test
     public void testLadderLength1() {
         Solution solution = new Solution();

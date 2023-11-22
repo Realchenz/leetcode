@@ -16,6 +16,51 @@
         <module>max-island-area</module>
         <module>word-chain</module>
         <module>enclave-number</module>
+        <module>next-bigger-number1</module>
+        <module>next-bigger-number2</module>
+        <module>is-symmetric-tree</module>
+        <module>subSet2</module>
+        <module>subset2</module>
+        <module>sudoku</module>
+        <module>max-subarray-sum</module>
+        <module>fibonacci</module>
+        <module>one-and-zero</module>
+        <module>target-sum</module>
+        <module>steal-max</module>
+        <module>steal-max-two</module>
+        <module>print-FooBar</module>
+        <module>min-expense-ladder</module>
+        <module>different-path-62</module>
+        <module>different-path-63</module>
+        <module>binary-tree-max-depth-104</module>
+        <module>different-BST-96</module>
+        <module>word-seperation-139</module>
+        <module>different-subseq-115</module>
+        <module>complete-square-number-279</module>
+        <module>integer-split-343</module>
+        <module>combination-num-377</module>
+        <module>unintersected-line-1035</module>
+        <module>max-common-subseq-1143</module>
+        <module>equalsum-subset-416</module>
+        <module>change-518</module>
+        <module>two-string-deletion-583</module>
+        <module>palindrome-647</module>
+        <module>max-repeat-subset-718</module>
+        <module>last-stone-weight-1049</module>
+        <module>bst-insertion-701</module>
+        <module>neighbored-ancestor-235</module>
+        <module>stack-to-queue-232</module>
+        <module>queue-to-stack-225</module>
+        <module>pre-knumbers-347</module>
+        <module>del-all-duplicates-1047</module>
+        <module>four-numbers-sum-18</module>
+        <module>maxrect-bargraph-84</module>
+        <module>wiggle-max-length-376</module>
+        <module>monotone-increasing-digits-738</module>
+        <module>reconstruct-queue-406</module>
+        <module>erase-overlap-intervals-435</module>
+        <module>min-camera-cover-968</module>
+        <module>pacific-ocean-417</module>
     </modules>
 
     <properties>
@@ -23,5 +68,19 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.10.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 </project>

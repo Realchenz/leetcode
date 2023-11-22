@@ -3,19 +3,105 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/all-possible-path/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/all-possible-path/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/binary-tree-max-depth-104/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/binary-tree-max-depth-104/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bst-insertion-701/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bst-insertion-701/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/change-518/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/change-518/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/combination-num-377/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/combination-num-377/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/complete-square-number-279/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/complete-square-number-279/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/del-all-duplicates-1047/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/del-all-duplicates-1047/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-BST-96/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-BST-96/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-path-62/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-path-62/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-path-63/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-path-63/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-subseq-115/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/different-subseq-115/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/enclave-number/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/enclave-number/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/equalsum-subset-416/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/equalsum-subset-416/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/erase-overlap-intervals-435/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/erase-overlap-intervals-435/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fibonacci/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fibonacci/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/four-numbers-sum-18/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/four-numbers-sum-18/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integer-split-343/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integer-split-343/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-symmetric-tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-symmetric-tree/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/island-number/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/island-number/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/last-stone-weight-1049/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/last-stone-weight-1049/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/max-common-subseq-1143/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/max-common-subseq-1143/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/max-island-area/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/max-island-area/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/max-repeat-subset-718/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/max-repeat-subset-718/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/max-subarray-sum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/max-subarray-sum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maxrect-bargraph-84/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maxrect-bargraph-84/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/min-camera-cover-968/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/min-camera-cover-968/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/min-expense-ladder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/min-expense-ladder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monotone-increasing-digits-738/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monotone-increasing-digits-738/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neighbored-ancestor-235/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neighbored-ancestor-235/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/next-bigger-number1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/next-bigger-number1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/next-bigger-number2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/next-bigger-number2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-and-zero/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-and-zero/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/palindrome-647/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/palindrome-647/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pre-knumbers-347/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pre-knumbers-347/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print-foobar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print-foobar/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/queue-to-stack-225/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/queue-to-stack-225/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reconstruct-queue-406/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reconstruct-queue-406/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/recover-ipadress/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/recover-ipadress/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/split-palindromic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/split-palindromic/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stack-to-queue-232/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stack-to-queue-232/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/steal-max-two/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/steal-max-two/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/steal-max/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/steal-max/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/subset2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/subset2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sudoku/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sudoku/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/target-sum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/target-sum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/two-string-deletion-583/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/two-string-deletion-583/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unintersected-line-1035/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unintersected-line-1035/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiggle-max-length-376/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wiggle-max-length-376/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/word-chain/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/word-chain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word-seperation-139/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word-seperation-139/src/main/resources" charset="UTF-8" />
   </component>
 </project>
